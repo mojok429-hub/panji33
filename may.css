@@ -1,0 +1,43 @@
+.banner{
+    height: 100vh;
+    background:url("ok.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.icon-circle{
+  width:70px;
+  height:70px;
+  font-size:28px;
+  color:#fff;
+}
+
+.pelayanan{
+  background:#111;
+  color:#fff;
+}
+
+.testimony{
+  background:#0f172a;
+}
+
+.testimony-card{
+  background:#fff;
+  border-radius:15px;
+  padding:25px;
+  height:100%;
+}
+
+.quote-icon{
+  font-size:40px;
+  color:#facc15;
+}
+
+.footer{
+  background:#111;
+}
+
+.social-icon{
+  font-size:26px;
+  color:white;
+}
